@@ -6,3 +6,4 @@ mod numbers8;
 mod numbers9;
 mod numbers10;
 mod numbers11;
+mod chars2;
