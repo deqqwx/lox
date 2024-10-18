@@ -7,3 +7,4 @@ mod numbers9;
 mod numbers10;
 mod numbers11;
 mod chars2;
+mod bool3;
